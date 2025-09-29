@@ -47,7 +47,7 @@ Copy code
 
 ## ⚙️ Prerequisites
 - AWS Account with programmatic access (IAM user or role)  
-- Terraform installed locally → [Install Terraform](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli)  
+- Terraform installed locally  
 - AWS CLI configured with credentials (`aws configure`)  
 
 ---
