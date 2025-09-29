@@ -23,8 +23,7 @@ The infrastructure includes:
 ## 🏗️ Architecture
 Below is the high-level architecture diagram of the infrastructure:  
 
-![Architecture Diagram](./architecture.png)  
-*(Replace with your actual diagram — e.g., draw with [Lucidchart](https://lucidchart.com), [Draw.io](https://app.diagrams.net/), or [Excalidraw](https://excalidraw.com/))*
+
 
 ---
 
